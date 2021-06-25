@@ -13,8 +13,8 @@
       }
 
       body {
-        width: 100vw;
-        height: 100vh;
+        width: 200vw;
+        height: 200vh;
         display: flex;
         justify-content: center;
         align-items: center;
@@ -24,7 +24,7 @@
   <body>
 
     <!-- our "canvas" where we draw things-->
-    <canvas id="canvas" width="600" height="400"></canvas>
+    <canvas id="canvas" width="800" height="600"></canvas>
 
     <!-- link to script.js -->
     <script type="text/javascript" src="js/script.js"></script>
